@@ -1,0 +1,6 @@
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\COMMON\bin\Debug\COMMON.dll
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\COMMON\bin\Debug\COMMON.pdb
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\COMMON\obj\Debug\COMMON.csproj.AssemblyReference.cache
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\COMMON\obj\Debug\COMMON.csproj.CoreCompileInputs.cache
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\COMMON\obj\Debug\COMMON.dll
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\COMMON\obj\Debug\COMMON.pdb

@@ -1,0 +1,66 @@
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.dll
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\CAPA_NEGOCIO\bin\Debug\COMMON.dll
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\CAPA_NEGOCIO\bin\Debug\COMMON.pdb
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+C:\Users\Ventas\Documents\Orlando Universidad\Desarrollo\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Orlando\Desarrollo\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+C:\Orlando\Desarrollo\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Orlando\Desarrollo\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.dll
+C:\Orlando\Desarrollo\Solution1\CAPA_NEGOCIO\bin\Debug\COMMON.dll
+C:\Orlando\Desarrollo\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Orlando\Desarrollo\Solution1\CAPA_NEGOCIO\bin\Debug\COMMON.pdb
+C:\Orlando\Desarrollo\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Orlando\Desarrollo\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Orlando\Desarrollo\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Orlando\Desarrollo\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+C:\Orlando\Desarrollo\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Orlando\Solution1 (1)\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Orlando\Solution1 (1)\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Orlando\Solution1 (1)\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+C:\Orlando\Solution1 (1)\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Orlando\Solution1 (1)\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+C:\Orlando\Solution1 (1)\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Orlando\Solution1 (1)\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.dll
+C:\Orlando\Solution1 (1)\Solution1\CAPA_NEGOCIO\bin\Debug\COMMON.dll
+C:\Orlando\Solution1 (1)\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Orlando\Solution1 (1)\Solution1\CAPA_NEGOCIO\bin\Debug\COMMON.pdb
+C:\Orlando\Solution1 (1)\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Orlando\Desarrollo\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+C:\Orlando\Desarrollo\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Orlando\Desarrollo\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.dll
+C:\Orlando\Desarrollo\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\COMMON.dll
+C:\Orlando\Desarrollo\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Orlando\Desarrollo\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\COMMON.pdb
+C:\Orlando\Desarrollo\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Orlando\Desarrollo\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Orlando\Desarrollo\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Orlando\Desarrollo\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+C:\Orlando\Desarrollo\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Orlando\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+C:\Orlando\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Orlando\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.dll
+C:\Orlando\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\COMMON.dll
+C:\Orlando\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Orlando\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\COMMON.pdb
+C:\Orlando\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Orlando\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Orlando\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Orlando\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+C:\Orlando\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Orlando\Desktop\Solution1 (2)\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.dll
+C:\Users\Orlando\Desktop\Solution1 (2)\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_NEGOCIO.pdb
+C:\Users\Orlando\Desktop\Solution1 (2)\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.dll
+C:\Users\Orlando\Desktop\Solution1 (2)\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\COMMON.dll
+C:\Users\Orlando\Desktop\Solution1 (2)\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Orlando\Desktop\Solution1 (2)\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\bin\Debug\COMMON.pdb
+C:\Users\Orlando\Desktop\Solution1 (2)\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.AssemblyReference.cache
+C:\Users\Orlando\Desktop\Solution1 (2)\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CoreCompileInputs.cache
+C:\Users\Orlando\Desktop\Solution1 (2)\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.csproj.CopyComplete
+C:\Users\Orlando\Desktop\Solution1 (2)\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.dll
+C:\Users\Orlando\Desktop\Solution1 (2)\Solution1 (2)\Solution1\Solution1\CAPA_NEGOCIO\obj\Debug\CAPA_NEGOCIO.pdb
